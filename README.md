@@ -5,3 +5,5 @@ At this stage no pre-requisites.
 Application gets the number of days that are above requested temperature for a set period eg "the next 5 days".
 
 Application gets the number of sunny days for a set period eg "the next 5 days".
+
+Application will continue to give hourly updates of the above until user says no to updates.
